@@ -17,9 +17,8 @@ Tecnologías utilizadas:
 HTML5
 CSS3
 JavaScript
-Frameworks CSS (opcional)
-Requisitos:
 
+Requisitos:
 Navegador web moderno
 Conexión a internet
 Instrucciones de uso:
